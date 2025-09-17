@@ -1,2 +1,2 @@
-# Python---Assignments
+# Python-Assignments
 My LuxDevHQ Python Assignments
